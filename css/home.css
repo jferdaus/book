@@ -1,0 +1,121 @@
+
+    /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0 solid white;
+	background-color:white;
+	
+    }
+    
+	.header1{
+	font-family: ﻿SutonnyMJ, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 3.5vw;
+color: rgba(33, 40, 55, 255);
+text-align: left;
+margin-left: 22px;
+margin-top:23px;
+	
+	}
+	
+	
+	
+	.subhead1{
+	
+	font-family: ﻿CenturyGothic-Bold, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 2vw;
+color: rgba(3, 151, 211, 255);
+text-align: left;
+float:right;
+margin-top:24px;
+margin-right:49px;
+	
+	}
+	
+	
+	
+	.para001{
+	
+	font-family: ﻿SutonnyMJ, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size:2.3vw;
+color: rgba(33, 40, 55, 255);
+text-align: left;
+margin-top:17px;
+	}
+	
+	.para002{
+	
+	font-family: ﻿SutonnyMJ, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 2vw;
+color: rgba(120, 124, 134, 255);
+text-align: left;
+	}
+	
+	.para003{
+	
+	font-family: ﻿CenturyGothic-Bold, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 2vw;
+color: rgba(33, 40, 55, 255);
+text-align: left;
+	}
+		.para004{
+	
+	font-family: ﻿CenturyGothic, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 1.4vw;
+color: rgba(239, 80, 80, 255);
+text-align: left;
+margin-left: 21px;
+
+	}
+	
+	
+
+	
+	.column {
+    float: left;
+    width: 33.33%;
+    padding: 20px;
+
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+	
+	
+	
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f1f2f4;
+      padding: 25px;
+    }
+	
+	
+	.footer1{
+	width:152px;
+	height: 50px;
+	float:left;
+	margin-left:28px;
+	margin-bottom:66px;
+		margin-top:64px;
+	
+	}
+	
+	.footer2{
+	float:right;
+	margin-bottom:66px;
+		margin-top:45px;
+		
+		font-family: ﻿CenturyGothic, ﻿AdobeInvisFont, ﻿MyriadPro-Regular;
+font-size: 1.7vw;
+color: rgba(102, 104, 103, 255);
+text-align: left;
+	
+	}
+ 
+
+  
+  
+  
